@@ -1,0 +1,9 @@
+Department,Room Name,Count,Target Area,Floor
+Bedrooms,Master Bedroom,1,250,1
+Bedrooms,Guest Bedroom,2,140,1
+Kitchen,Kitchen,1,180,1
+Living,Living Room,1,320,1
+Bathrooms,Full Bath,1,80,1
+Bathrooms,Powder Room,1,30,1
+Utility,Laundry,1,40,1
+Circulation,Hall,1,60,1
