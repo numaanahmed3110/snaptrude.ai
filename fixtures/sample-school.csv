@@ -1,0 +1,8 @@
+Department,Room Name,Count,Target Area,Floor
+Classrooms,General Classroom,6,100,1
+Classrooms,Small Group Classroom,2,60,1
+Classrooms,Resource Room,1,80,1
+Staff rooms,Staff Lounge,1,60,1
+Staff rooms,Principal Office,1,40,1
+Circulation,Corridor,1,200,1
+Toilets,Student WC,2,45,1
